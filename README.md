@@ -1,6 +1,6 @@
 ## About Me
 
-I am a fourth-year undergraduate student at the University of California, Berkeley, majoring in Statistics. He is anticipated to graduate in Dec 2018. I am from Hong Kong, but I came to United States to attend college for a couple of years at University of California, Berkeley. When I was young, I have always enjoyed solving math problems and dealing with numbers. That is why I focus my studies on statistics, using math to solve the real world problems. On my free time, I enjoy playing badminton, jogging, cooking spicy szechuan food, and spending time with family and friends.
+I am a fourth-year undergraduate student at the University of California, Berkeley, majoring in Statistics. I am anticipated to graduate in Dec 2018. I am from Hong Kong, but I came to United States to attend college for a couple of years at University of California, Berkeley. When I was young, I have always enjoyed solving math problems and dealing with numbers. That is why I focus my studies on statistics, using math to solve the real world problems. On my free time, I enjoy playing badminton, jogging, cooking spicy szechuan food, and spending time with family and friends.
 
 ## Selected Projects
 #### Predicting Horse Race Winners in Hong Kong Racetrack
