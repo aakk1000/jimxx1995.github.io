@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/jimxx1995/jimxx1995.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fourth-year undergraduate student at the University of California, Berkeley, majoring in Statistics. He is anticipated to graduate in Dec 2018. I am from Hong Kong, but I came to United States to attend college for a couple of years at University of California, Berkeley. When I was young, I have always enjoyed solving math problems and dealing with numbers. That is why I focus my studies on statistics, using math to solve the real world problems. On my free time, I enjoy playing badminton, jogging, cooking spicy szechuan food, and spending time with family and friends.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Selected Projects
+#### Predicting Horse Race Winners in Hong Kong Racetrack
+-Using data science skills to explore the possibility of winning at the races in Hong Kong using Python.This project cannot be shared publicly, but I am happy to share or provide a printout for any interested potential employer. However, I can share some of the [data cleaning](https://jimxx1995.github.io/project/HKJC-Data%20Cleaning.html) code and [screenshot](https://jimxx1995.github.io/img/model.png) of the Logistic Regression. <br>
+#### Analysis of Politicians on Twitter
+-Analyzing Donald Trump and Barack Obama’s tweets to find the changes between two presidents.
+-[Part 1](https://jimxx1995.github.io/project/Analysis%20the%20changes%20of%20topic%20from%20Obama%20to%20Trump%20on%20Twitter.html)-	Analyzed the changes of topic from Obama to Trump on Twitter using LDA model and compared the changes to the real world.Also,analyzed the differences in sentiment between Obama to Trump and the relations to Presidential Job Approval Rating
+-[Part 2](https://jimxx1995.github.io/project/Aggregate%20Text%20Statistics%20of%20the%20Tweets.html)-Computed aggregate text statistics of the tweets using NLTK in python and visualized the properties.
+#### NBA Players’ Salaries Analysis[(link)](https://github.com/jimxx1995/NBA-Players-Salaries-Analysis/tree/master)
+-A school project analyzing the relationship between salary and skill of basketball players
+-Designed a process for collecting data from Basketball Reference website using R and web crawling
+-Analyzed 2015-2016 NBA season data to summarize their main characteristics with exploratory data analysis (EDA).
+-Visualized the relationship between all the player statistics and the salary using Shiny.
 
-### Markdown
+## More Projects
+Please contact me to provide the details of other projects I've done. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Contact Me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jimxx1995/jimxx1995.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: jimxx1995@gmail.com
